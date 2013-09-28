@@ -1,6 +1,7 @@
 require 'glom/version'
 require 'rubygems'
 require 'net/http'
+require 'net/https'
 require 'json'
 require 'tmpdir'
 require 'time'
